@@ -11,14 +11,14 @@ Click on show more,proceed anyways if you trust me.
 Version 2 is in developement.
 
 Known bugs:
--Sometimes there are some wrong numbers (numbers consisting of 2 numbers e.g. 10 / 11 ....) getting displayed. 
+Sometimes there are some wrong numbers (numbers consisting of 2 numbers e.g. 10 / 11 ....) getting displayed. 
 
 Features to come:
 
--Background music
-\n More "secure" generation and accurate Numbers
--Dataset update via Server
--Optimizations under the hood,more stable code
+Background music
+More "secure" generation and accurate Numbers
+Dataset update via Server
+Optimizations under the hood,more stable code
 
 AND A LOT MORE 
 
