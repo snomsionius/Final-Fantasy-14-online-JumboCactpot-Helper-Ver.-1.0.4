@@ -7,3 +7,8 @@ The datasheet gets updated with future Cactpot draws to make a more accurate gue
 
 Your PC might give you a warning that your PC got protected from a virus or smth.
 Click on show more,proceed anyways if you trust me.
+
+Version 2 is in developement.
+
+Known bugs:
+-Sometimes there are some wrong numbers (numbers consisting of 2 numbers e.g. 10 / 11 ....) getting displayed. 
