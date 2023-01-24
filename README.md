@@ -16,7 +16,7 @@ Known bugs:
 Features to come:
 
 -Background music
--More "secure" generation and accurate Numbers
+\n More "secure" generation and accurate Numbers
 -Dataset update via Server
 -Optimizations under the hood,more stable code
 
